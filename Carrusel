@@ -1,0 +1,12 @@
+<div id="carrusel_b">
+    <ul class="photos_b">
+        <li><img id="foto1" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStVIA8EKxVCUL-PmwgA4qdaNOQWBhGffwa8h2xZr9cAQ-y2-vtyw" width="800" height="600"/></li>
+        <li><img id="foto2" src="https://www.planwallpaper.com/static/images/4308720-cartoon-wallpaper-hd.jpg" width="800" height="600"/></li>
+        <li><img id="foto3" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0YKNXYP3j03Q_C3Qv0xRY4DVnEJo-lfY-FNrVCCvQT_CUNM_iWA" width="800" height="600"/></li>
+    </ul>
+    <ul class="links_b">
+        <li><a href="#foto1">Hobbit</a></li>
+        <li><a href="#foto2">UP</a></li>
+        <li><a href="#foto3">Gatito</a></li>
+    </ul>
+</div>
